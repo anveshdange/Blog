@@ -136,7 +136,7 @@
 #     # lineNos: true
 #     # style: monokai
 
-baseURL: "https://anveshdange.github.io/website/"
+baseURL: "https://anveshdange.github.io/Blog/"
 languageCode: en
 title: "Anvesh Dange"
 theme: "PaperMod"
