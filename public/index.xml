@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Anvesh Dange</title>
+    <link>http://localhost:1313/website/</link>
+    <description>Recent content on Anvesh Dange</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A New Website</title>
+      <link>http://localhost:1313/website/posts/2024-01-07-new-site/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website/posts/2024-01-07-new-site/</guid>
+      <description>A Blog post on why I wanted to create this Blog website</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/website/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website/about/</guid>
+      <description>&lt;!-- ![My hand](images/banner.jpeg) --&gt;
+&lt;img src=&#34;images/anvesh.jpeg#center&#34; height=200 width=200 style=&#34;border-radius: 50%&#34;&gt;
+&lt;!-- &gt; A picture of my hand. --&gt;
+&lt;p&gt;Greetings 👋, my name is Anvesh Dange! I am an AI enthusiast (primarily deep generative modeling, multimodal models, Transformer, Neural Networks), tinker with Linux,
+and explore anything else I fancy. I happen to be a Junior Student
+doing Bachelors in Artificial Intelligence.&lt;/p&gt;
+&lt;p&gt;Outside of the computer-sphere, I enjoy productively procrastinating by watching
+Anime &amp;amp; yt videos. I also have an interest in (slowly) learning games
+like chess.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
