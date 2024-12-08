@@ -6,28 +6,21 @@
     <description>Recent content on Anvesh Dange</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding AlexNet</title>
+      <link>http://localhost:1313/Blog/posts/imagenet/main/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Blog/posts/imagenet/main/</guid>
+      <description>In this blog I try to breakdown the ground breaking paper on ImageNet Challenge </description>
+    </item>
     <item>
       <title>A New Website</title>
       <link>http://localhost:1313/Blog/posts/new-site/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Blog/posts/new-site/</guid>
       <description>A Blog post on why I wanted to create this Blog website</description>
-    </item>
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/Blog/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Blog/posts/markdown-syntax/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-    </item>
-    <item>
-      <title>Math Typesetting</title>
-      <link>http://localhost:1313/Blog/posts/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Blog/posts/math-typesetting/</guid>
-      <description>A brief guide to setup KaTeX</description>
     </item>
     <item>
       <title>About Me</title>

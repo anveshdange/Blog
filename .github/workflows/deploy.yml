@@ -33,8 +33,8 @@ jobs:
         run: |
           cp -R public/* ${GITHUB_WORKSPACE}/built-site/
           cd ${GITHUB_WORKSPACE}/built-site
-          git add .
-          git config user.name 'anveshdange'
-          git config user.email 'dangeanv@gmail.com'
-          git commit -m 'Updated site'
-          git push    
+          # git add .
+          # git config user.name 'anveshdange'
+          # git config user.email 'dangeanv@gmail.com'
+          # git commit -m 'Updated site'
+          # git push    
