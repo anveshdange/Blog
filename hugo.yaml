@@ -188,8 +188,9 @@ params:
   hideMeta: true
 
   footer: 
+    text: "Journaling my Learnings !!"
     hideCopyright: false
-    text: "Journaling my Learnings"
+    
 
   homeInfoParams:
     Title: "🤔 Welcome to Anvesh's Website!"
@@ -224,3 +225,25 @@ params:
 
   cover:
     linkFullImages: true
+
+
+
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+          - - $
+            - $
+        enable: true
+params:
+  math: false
+

@@ -2,10 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Anvesh Dange</title>
-    <link>http://localhost:1313/website/tags/</link>
+    <link>http://localhost:1313/Blog/tags/</link>
     <description>Recent content in Tags on Anvesh Dange</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/Blog/tags/first/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Blog/tags/first/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>http://localhost:1313/Blog/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Blog/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>http://localhost:1313/Blog/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Blog/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/Blog/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Blog/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themes</title>
+      <link>http://localhost:1313/Blog/tags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Blog/tags/themes/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

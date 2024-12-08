@@ -2,18 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Anvesh Dange</title>
-    <link>http://localhost:1313/website/posts/</link>
+    <link>http://localhost:1313/Blog/posts/</link>
     <description>Recent content in Posts on Anvesh Dange</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/website/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A New Website</title>
-      <link>http://localhost:1313/website/posts/2024-01-07-new-site/</link>
+      <link>http://localhost:1313/Blog/posts/new-site/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/posts/2024-01-07-new-site/</guid>
+      <guid>http://localhost:1313/Blog/posts/new-site/</guid>
       <description>A Blog post on why I wanted to create this Blog website</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/Blog/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Blog/posts/markdown-syntax/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://localhost:1313/Blog/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Blog/posts/math-typesetting/</guid>
+      <description>A brief guide to setup KaTeX</description>
     </item>
   </channel>
 </rss>

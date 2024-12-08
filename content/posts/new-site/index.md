@@ -1,9 +1,13 @@
 --- 
+author: "Anvesh Dange"
 title: "A New Website" 
 date: 2024-01-07
+tags: ["First"]
+ShowToc: true
+ShowBreadCrumbs: true
 description: "A Blog post on why I wanted to create this Blog website"
 draft: false
---- 
+---
 > “ The secret to change is to focus all of your energy, not on fighting the old, but on building the new. ” <br> ~ Socrates.
 ### Some History
 Portfolio Websites are something every Computer Science student will create someday. There are many things which are supposed to be done to create a website like learning HTML, CSS, Javascript. 

@@ -4,8 +4,8 @@ title: Math Typesetting
 date: 2019-03-08
 description: A brief guide to setup KaTeX
 math: true
-ShowBreadCrumbs: false
-draft: true
+ShowBreadCrumbs: true
+
 ---
 
 Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.
@@ -36,4 +36,14 @@ Inline math: \\(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\\)
 
 Block math:
 
-$$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$
+$$\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }$$
+Inline Equation : \(\sqrt{3x-1}+(1+x)^2 \)
+
+\[
+\begin{aligned}
+KL(\hat{y} || y) &= \sum_{c=1}^{M}\hat{y}_c \log{\frac{\hat{y}_c}{y_c}} \\
+JS(\hat{y} || y) &= \frac{1}{2}(KL(y||\frac{y+\hat{y}}{2}) + KL(\hat{y}||\frac{y+\hat{y}}{2}))
+\end{aligned}
+\]
+
+Inline Equation : $\sqrt{3x-1}+(1+x)^2$

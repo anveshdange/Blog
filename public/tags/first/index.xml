@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>First on Anvesh Dange</title>
+    <link>http://localhost:1313/Blog/tags/first/</link>
+    <description>Recent content in First on Anvesh Dange</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/Blog/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A New Website</title>
+      <link>http://localhost:1313/Blog/posts/new-site/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Blog/posts/new-site/</guid>
+      <description>A Blog post on why I wanted to create this Blog website</description>
+    </item>
+  </channel>
+</rss>
