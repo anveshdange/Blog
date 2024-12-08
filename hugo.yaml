@@ -139,7 +139,7 @@
 baseURL: "https://anveshdange.github.io/Blog/"
 languageCode: en
 title: "Anvesh Dange"
-theme: "PaperMod"
+theme: "papermod"
 pagination.pagerSize: 5
 
 markup:
